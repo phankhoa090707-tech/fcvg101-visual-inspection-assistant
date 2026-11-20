@@ -1,0 +1,17 @@
+{
+  "test_loss": 0.0871,
+  "test_accuracy": 0.968,
+  "test_precision": 0.9757,
+  "test_recall": 0.96,
+  "test_f1_score": 0.9678,
+  "confusion_matrix": [
+    [
+      9761,
+      239
+    ],
+    [
+      400,
+      9600
+    ]
+  ]
+}
